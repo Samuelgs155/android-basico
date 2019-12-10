@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto011</string>
+    <string name="emailText">Ingrese mail</string>
+    <string name="btnEjecutar">Ejecutar</string>
+</resources>
