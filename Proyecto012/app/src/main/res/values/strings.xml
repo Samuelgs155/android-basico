@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Proyecto012</string>
+    <string name="et1Texto">Nombre de la persona</string>
+    <string name="multiText">Datos</string>
+    <string name="btn1Texto">Grabar</string>
+    <string name="btn2Texto">Recuperar</string>
+</resources>
