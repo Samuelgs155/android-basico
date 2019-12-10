@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Proyecto010</string>
+    <string name="et11Text">Ingrese un sitio web</string>
+    <string name="btn11Text">Ver</string>
+</resources>
